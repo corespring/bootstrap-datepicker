@@ -1,6 +1,6 @@
 {
   "name": "corespring-bootstrap-datepicker",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": ["js/bootstrap-datepicker.js","css/datepicker.css"]
   
 }
